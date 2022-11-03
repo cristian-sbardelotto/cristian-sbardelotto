@@ -44,3 +44,7 @@ If I could sum up my identity in one word, it would be Dedication.
 My goal, both professional and personal, is to bring the best result of what was asked of me.
 
 With constant study, the programming area is my absolute focus. I always try to be in progress, practicing (alone or in a group), helping those in need, and learning new concepts every day.
+
+![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
+
+
