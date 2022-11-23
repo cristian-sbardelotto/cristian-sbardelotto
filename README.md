@@ -6,7 +6,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm#inbox?compose=CllgCJftMSsbQPPshhgqZvpPtthkWjvZbVDpFLfcrRtLtZlLHFfKtgtvSsvxPDjQsHlRNvJzkkg)
 
 ![Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristian-sbardelotto&show_icons=true&theme=tokyonight)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristian-sbardelotto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Technologies I use:
