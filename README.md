@@ -3,8 +3,11 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-k-sbardelotto/)
 
 ![Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristian-sbardelotto&show_icons=true&theme=tokyonight)
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristian-sbardelotto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br />
 [![GitHub Streak](https://streak-stats.demolab.com/?user=cristian-sbardelotto&theme=dark)](https://git.io/streak-stats)
+<br />
 
 ### Technologies I use:
 
