@@ -4,6 +4,7 @@
 
 ![Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristian-sbardelotto&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristian-sbardelotto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=cristian-sbardelotto&theme=dark)](https://git.io/streak-stats)
 
 ### Technologies I use:
 
@@ -37,8 +38,8 @@
   <img alt='DenoJS' src='https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white' />
   <img alt='ExpressJS' src='https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB'/>
   <img alt='NodeJS' src='https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white' />
+  <img alt='MongoDB' src='https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white' />
   <img alt='Insomnia' src='https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE' />
-
 </div>
 
 ### About me: 
