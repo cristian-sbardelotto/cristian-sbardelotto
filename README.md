@@ -1,8 +1,19 @@
 
 <h1 align='center'>Hello Devs! I'm Cristian Sbardelotto 👋👋</h1>
 
+<div align='center'>
+
 ![Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristian-sbardelotto&show_icons=true&theme=tokyonight)
+
+
+</div>
+
+<div align='center'>
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristian-sbardelotto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 <br />
 
