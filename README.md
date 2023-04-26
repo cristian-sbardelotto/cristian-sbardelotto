@@ -10,7 +10,6 @@
 
 ![Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristian-sbardelotto&show_icons=true&theme=dark)
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristian-sbardelotto&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
@@ -42,7 +41,7 @@
   <div style='display: flex; justify-content: center; gap: 20px'>
     <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
     <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />      
+    <img height='60' alt='asdjasd' src='./.github/assets/express.svg' /> 
     <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
   </div>
 </div>
@@ -54,13 +53,10 @@
 <br />
  <div style='display: flex; justify-content: center; gap: 20px'>
   <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img height='60' src="./.github/assets/github.svg" />
   <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-          
-  <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
-          
+  <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
    <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
-          
   <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
           
   </div>
