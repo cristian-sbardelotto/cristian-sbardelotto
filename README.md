@@ -63,10 +63,8 @@
 
 ### About me:
 
-🇧🇷 Meu nome é Cristian Sbardelotto, e tenho 15 anos. Comecei a estudar programação Web desde Agosto de 2022, e desde então, me sinto cada vez mais inspirado e disposto a seguir minha carreira na área. 
-
-Meu objetivo atual é conquistar meu primeiro emprego na área e futuramente me tornar um Tech Lead. 
-
+<img height='10' src='https://www.gov.br/planalto/pt-br/conheca-a-presidencia/acervo/simbolos-nacionais/bandeira/bandeiragrande.jpg/@@images/image' alt='' /> Meu nome é Cristian Sbardelotto, e tenho 15 anos. Comecei a estudar programação Web desde Agosto de 2022, e desde então, me sinto cada vez mais inspirado e disposto a seguir minha carreira na área. <br />
+Meu objetivo atual é conquistar meu primeiro emprego na área e futuramente me tornar um Tech Lead. <br />
 As minhas principais tecnologias são Javascript/Typescript, React, NextJS, e Styled-Components.
 
 🇺🇸 My name is Cristian Sbardelotto, and I am 15. I started studying Web programming in August 2022, and since then, I feel more and more inspired and willing to pursue my career in the area.
