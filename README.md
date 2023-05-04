@@ -7,6 +7,8 @@
 </div>
 
 <div align='center' style='display: flex; align-items: center; gap: 30px'>
+  
+<img src="https://komarev.com/ghpvc/?username=cristian-sbardelotto&color=orange" alt="Profile views" />
 
 ![Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristian-sbardelotto&show_icons=true&theme=dark)
 
