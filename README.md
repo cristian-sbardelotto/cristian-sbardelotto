@@ -75,6 +75,7 @@ My main technologies are Javascript/Typescript, React, NextJS, and Styled-Compon
 </h5>
  
 <br />
+
 ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
 
 <h2 align='center'>Contact with me</h2>
