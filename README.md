@@ -1,4 +1,5 @@
-<h1 align='center'><strong>Hello! How are you? I'm Cristian Sbardelotto 👋👋</strong></h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=80F7D4&height=120&section=header"/>
+<h1 align='center'><strong> Cristian Sbardelotto </strong></h1>
 
 <div align='center'>
 
@@ -7,12 +8,15 @@
 </div>
 
 <div align='center' style='display: flex; align-items: center; gap: 30px'>
+
+
+<div align="center">  
   
-<img src="https://komarev.com/ghpvc/?username=cristian-sbardelotto&color=orange" alt="Profile views" />
-
-![Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristian-sbardelotto&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristian-sbardelotto&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=cristian-sbardelotto&show_icons=true&count_private=true&hide_border=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117" alt="Enzo de Freitas Machado github stats" /> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristian-sbardelotto&layout=compact&hide_border=true&title_color=80F7D4&text_color=fff&bg_color=0d1117" />
+  
+</div>
 
 </div>
 
@@ -78,3 +82,4 @@ My main technologies are Javascript/Typescript, React, NextJS, and Styled-Compon
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-k-sbardelotto/)
 
 </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=80F7D4&height=120&section=footer"/>
