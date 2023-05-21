@@ -20,13 +20,13 @@
 
 </div>
 
-<div align='center'><br />
+<div><br />
 
 ## Technologies that I use in my everyday:
 
 <br />
 
-  <div style='display: flex; justify-content: center; gap: 20px'>
+  <div>
     <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -38,12 +38,12 @@
   </div>
 </div>
 
-<div align='center'><br />
+<div><br />
 
 ## Technologies that I had contact:
 
 <br />
-  <div style='display: flex; justify-content: center; gap: 20px'>
+  <div>
     <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
     <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />      
@@ -51,12 +51,12 @@
   </div>
 </div>
 
-<div align='center'><br />
+<div><br />
 
 ## Complementary technologies:
 
 <br />
- <div style='display: flex; justify-content: center; gap: 20px'>
+ <div>
   <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
