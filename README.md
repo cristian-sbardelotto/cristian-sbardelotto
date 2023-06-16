@@ -3,7 +3,7 @@
 
 <div align='center'>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=80F7D4&center=true&lines=Web+Developer;Frontend)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=80F7D4&center=true&lines=Web+Developer;Fullstack)](https://git.io/typing-svg)
 
 </div>
 
@@ -71,7 +71,7 @@
 
 <h4>My name is Cristian Sbardelotto, and I am 15. I started studying Web programming in August 2022, and since then, I feel more and more inspired and willing to pursue my career in the area. <br />
 My current goal is to get my first job and, in the future, become a Tech Lead.<br />
-My main technologies are Javascript/Typescript, React, NextJS, TailwindCSS and Styled-Components.
+My main technologies are Javascript/Typescript, React, NextJS, Styled-Components, NodeJS and Prisma + Fastify.
 </h4>
  
 <br />
