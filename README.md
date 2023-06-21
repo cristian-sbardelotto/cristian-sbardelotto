@@ -12,7 +12,7 @@
 
 <div align="center">  
   
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=cristian-sbardelotto&show_icons=true&count_private=true&hide_border=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117" alt="Enzo de Freitas Machado github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=cristian-sbardelotto&show_icons=true&count_private=true&hide_border=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117" alt="Cristian Sbardelotto github stats" /> 
   
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristian-sbardelotto&layout=compact&hide_border=true&title_color=80F7D4&text_color=fff&bg_color=0d1117" />
   
