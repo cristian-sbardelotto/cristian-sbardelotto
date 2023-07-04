@@ -73,9 +73,9 @@
 
 <h4>My name is Cristian Sbardelotto, and I am 15. I started studying Web programming in August 2022, and since then, I feel more and more inspired and willing to pursue my career in the area. <br />
 My current goal is to get my first job and, in the future, become a Tech Lead.<br />
-My main technologies are Javascript/Typescript, React, NextJS, Styled-Components, NodeJS and Prisma + Fastify.
+My main technologies are Javascript/Typescript, React, NextJS, Styled-Components, NodeJS, and Prisma + Fastify.
 
-Check out my [portfolio](https://portfolio-git-main-cristian-sbardelotto.vercel.app/).
+Check out my [portfolio](https://bit.ly/portfolioSbardelotto)
 </h4>
  
 <br />
