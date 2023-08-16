@@ -88,5 +88,7 @@ Check out my [portfolio](https://bit.ly/portfolioSbardelotto)!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-k-sbardelotto/)
 
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bit.ly/portfolioSbardelotto)
+
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=80F7D4&height=120&section=footer"/>
