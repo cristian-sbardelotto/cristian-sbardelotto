@@ -86,4 +86,4 @@ Check out my [portfolio](https://bit.ly/portfolioSbardelotto)!
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bit.ly/portfolioSbardelotto)
 
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:5bffff,100:3CAAFF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=footer"/>
