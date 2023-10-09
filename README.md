@@ -70,7 +70,7 @@
 👋 Hello! My name is Cristian Sbardelotto and I am a FullStack Developer. I started studying Web programming in August 2022, and since then, I feel more and more inspired and willing to pursue my career in the area. <br /> 
 🧠 My current goal is to get my first job and, in the future, become a Tech Lead.<br /> 
 🧑‍💻 My main technologies are Javascript/Typescript, React, NextJS, Styled-Components, NodeJS and Prisma + Fastify.<br />
-🧑🏻 I always try to be a polite and respectful person, and I love interacting with new people and sharing my story. Want to talk about technology, games or sports? Send a message!
+🧑🏻 I always try to be a polite and respectful person, and I love interacting with new people and sharing my story. Want to talk about technology, games or sports? Send a message!<br /> 
 💻 Check out my [portfolio](https://bit.ly/portfolioSbardelotto)!
 
 <br />
