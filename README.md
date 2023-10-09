@@ -1,5 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=80F7D4&height=120&section=header"/>
-<h1 align='center'><strong> Cristian Sbardelotto </strong></h1>
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=80F7D4&height=120&section=header"/> -->
+
+<img width=100% src="./.github/assets/banner.png"/>
 
 <div align='center'>
 
@@ -7,8 +8,7 @@
 
 </div>
 
-<div align='center' style='display: flex; align-items: center; gap: 30px'>
-
+<div align='center'>
 
 <div align="center">  
   
@@ -19,6 +19,8 @@
 </div>
 
 </div>
+
+<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 
 <div><br />
 
@@ -77,10 +79,9 @@ My main technologies are Javascript/Typescript, React, NextJS, TailwindCSS, Node
 
 Check out my [portfolio](https://bit.ly/portfolioSbardelotto)!
 
- 
 <br />
 
-![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
+<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 
 <h2 align='center'>Contact me</h2>
 
@@ -91,4 +92,4 @@ Check out my [portfolio](https://bit.ly/portfolioSbardelotto)!
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bit.ly/portfolioSbardelotto)
 
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=80F7D4&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:5bffff,100:3CAAFF&height=120&section=footer"/>
