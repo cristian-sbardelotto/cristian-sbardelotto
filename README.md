@@ -67,11 +67,10 @@
 
 ## About me:
 
-Hello! My name is Cristian Sbardelotto, and I am a FullStack Developer. I started studying Web programming in August 2022, and since then, I feel more and more inspired and willing to pursue my career in the area. <br /> <br />
-My current goal is to get my first job and, in the future, become a Tech Lead.<br /> <br />
-My main technologies are Javascript/Typescript, React, NextJS, TailwindCSS, NodeJS, and Prisma + Fastify. <br /> <br />
-
-Check out my [portfolio](https://bit.ly/portfolioSbardelotto)!
+👋 Hello! My name is Cristian Sbardelotto and I am a FullStack Developer. I started studying Web programming in August 2022, and since then, I feel more and more inspired and willing to pursue my career in the area. <br /> 
+🧠 My current goal is to get my first job and, in the future, become a Tech Lead.<br /> 
+🧑‍💻 My main technologies are Javascript/Typescript, React, NextJS, Styled-Components, NodeJS and Prisma + Fastify.<br /> 
+💻 Check out my [portfolio](https://bit.ly/portfolioSbardelotto)!
 
 <br />
 
