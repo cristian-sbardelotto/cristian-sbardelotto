@@ -18,72 +18,26 @@
 
 <div><br />
 
-## Technologies that I use in my everyday:
+## My Stack:
 
-<br />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,prisma,docker,vscode,git,github&theme=dark" />
 
-  <div>
-    <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-    <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-    <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />   
-    <img height='60' src="./.github/assets/styled-components-1.svg" />
-    <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-    <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img height='60' src='https://i.pinimg.com/originals/39/b2/e4/39b2e4ad77c23a2c11e5950a7dfa2aec.png' />
-    <img height='60' src='https://raw.githubusercontent.com/github/explore/d236cc6153f7ab3e68694234be43003b74cfe151/topics/fastify/fastify.png' />
-  </div>
-</div>
+## About me:
 
-<div><br />
-
-## Technologies that I had contact:
-
-<br />
-  <div>
-    <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
-    <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />      
-    <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
-  </div>
-</div>
-
-<div><br />
-
-## Complementary technologies:
-
-<br />
- <div>
-  <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-  <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
-  <img height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />    
-  </div>
-</div>
-
-<br /><br />
-
-## 🧡 About me:
-
-👋 Hello! My name is Cristian Sbardelotto and I am a FullStack Developer. I started studying Web programming in August 2022, and since then, I feel more and more inspired and willing to pursue my career in the area. <br /> 
-🧠 My current goal is to get my first job and, in the future, become a Tech Lead.<br /> 
-🧑‍💻 My main technologies are Javascript/Typescript, React, NextJS, Styled-Components, NodeJS and Prisma + Fastify.<br />
-🧑🏻 I always try to be a polite and respectful person, and I love interacting with new people and sharing my story. Want to talk about technology, games or sports? Send a message!<br /> 
-💻 Check out my [portfolio](https://bit.ly/portfolioSbardelotto)!
+- 👋 Hello! My name is Cristian Sbardelotto and I am a FullStack Developer. <br /> 
+- 🧠 My current goal is to get my first job and, in the future, become a Tech Lead.<br /> 
+- 🧑‍💻 My main stack is HTML, CSS, Javascript, Typescript, React, NextJS, TailwindCSS, NodeJS, Prisma, Fastify, Express.<br />
+- 🧑🏻 I always try to be a polite and respectful person, and I love interacting with new people and sharing my story.<br />
+- 💬 Want to talk about technology, games or sports? Send a message!
+- 💻 Check out my [portfolio](https://bit.ly/portfolioSbardelotto)!
 
 <br />
 
 <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 
-<h2 align='center'>Contact me</h2>
-
-<div align='center'>
+## Contact me:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-k-sbardelotto/)
-
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bit.ly/portfolioSbardelotto)
 
-</div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=footer"/>
