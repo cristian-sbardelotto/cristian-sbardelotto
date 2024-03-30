@@ -29,7 +29,7 @@
 - 🧑‍💻 My main stack is HTML, CSS, Javascript, Typescript, React, NextJS, TailwindCSS, NodeJS, Prisma, Fastify, Express.<br />
 - 🧑🏻 I always try to be a polite and respectful person, and I love interacting with new people and sharing my story.<br />
 - 💬 Want to talk about technology, games or sports? Send a message!
-- 💻 Check out my [portfolio](https://bit.ly/portfolioSbardelotto)!
+- 💻 Check out my [portfolio](https://portfolio-chi-lemon-51.vercel.app/)!
 
 <br />
 
