@@ -20,13 +20,13 @@
 
 ## My Stack:
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,prisma,docker,vscode,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,figma,vscode,git,github&theme=dark" />
 
 ## About me:
 
-- 👋 Hello! My name is Cristian Sbardelotto and I am a FullStack Developer. <br /> 
-- 🧠 My current goal is to get my first job and, in the future, become a Tech Lead.<br /> 
-- 🧑‍💻 My main stack is HTML, CSS, Javascript, Typescript, React, NextJS, TailwindCSS, NodeJS, Prisma, Fastify, Express.<br />
+- 👋 Hello! My name is Cristian Sbardelotto and I am a Frontend Developer. <br />
+- 🧠 My current goal is to get my first job and, in the future, become a Tech Lead.<br />
+- 🧑‍💻 My main stack is HTML, CSS, Javascript, Typescript, React, NextJS, TailwindCSS, and Styled-components.<br />
 - 🧑🏻 I always try to be a polite and respectful person, and I love interacting with new people and sharing my story.<br />
 - 💬 Want to talk about technology, games or sports? Send a message!
 - 💻 Check out my [portfolio](https://portfolio-chi-lemon-51.vercel.app/)!
