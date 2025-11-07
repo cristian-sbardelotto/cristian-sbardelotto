@@ -1,5 +1,3 @@
-## ideia
-
 <img align="right" src="./.github/assets/night.gif" border="1" width="380px" height="250px" alt="night gif" />
 
 <p>hi! i'm cristian sbardelotto, a web developer.</p>
