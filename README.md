@@ -1,4 +1,4 @@
-<img align="right" src="./.github/assets/night.gif" border="1" width="380px" height="250px" alt="night gif" />
+<img align="right" src="./.github/assets/deltarune.gif" alt="deltarune gif" />
 
 <p>hi! i'm cristian sbardelotto, a web developer.</p>
 
