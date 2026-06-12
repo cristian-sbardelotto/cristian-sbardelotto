@@ -4,7 +4,7 @@
 
 - **Stack**: Typescript • Next.js • TailwindCSS • Go • Python.
 - I work as a **Frontend Developer** at [Hash³](https://hash3.dev/).
-- See more about me in [cristian-links](https://cristian-links.vercel.app/) or [cristian-os](https://cristian-os.vercel.app/)
+- See more about me in [sbardelotto.dev](https://sbardelotto.dev/).
 - I'm always open to new opportunities and connections. Feel free to reach out!
 
 **Contact me**
